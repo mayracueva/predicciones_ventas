@@ -1,10 +1,10 @@
 # **Predicción de ventas**
 
 ## **¿Qué hacer?**
-- Predicción de las ventas de productos alimenticios por tienda.
+- Predicción de las ventas de productos por tienda.
 
 ## **Datos**
-- Ventas realizadas en 10 tiendas correspondientes al año 2013 de 1559 productos alimenticios.
+- Ventas realizadas en 10 tiendas correspondientes al año 2013 de 1559 productos.
 - Fuente: https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
 ## **Diccionario de datos**
